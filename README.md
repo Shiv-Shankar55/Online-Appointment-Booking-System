@@ -354,40 +354,16 @@ These enhancements are also identified in the project's presentation.
 
 ### Sibasankar Panda
 
-**Branch:** CSE  
-**Section:** D1  
-**Group:** 12  
-**Lab Roll No:** 3
-
 **Contribution:**
 - Developed Home Page
 - Developed Login Page
 - Developed Registration Page
 - Frontend design
 - Backend functionality using JSP
-
-### Ankit Kumar
-
-**Branch:** CSE  
-**Section:** D1  
-**Group:** 12  
-**Lab Roll No:** 31
-
-**Contribution:**
 - Developed Doctor Appointment Booking Page
 - Developed Manage Appointment Page
 - Frontend design
 - Backend functionality using JSP
-
-
-
----
-
-## 📚 Academic Project
-
-**Course:** Internet & Web Technology (IWT)  
-**Program:** B.Tech – Computer Science and Engineering  
-**Semester:** 4th Semester
 
 ---
 
